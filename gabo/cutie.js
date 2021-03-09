@@ -18,4 +18,4 @@ else{	o+=query;	end=' I bet ya didnt! '+chz[Math.floor(Math.random()*chz.length)
 o+=" is a hecking "; 
 if(/Kae/i.test(query)){	o+='cute lil flower maizBlush ??';}
 else{	o+='cutie??';}
-o+=end;o;)
+o+=end;o;
