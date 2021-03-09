@@ -13,9 +13,9 @@ const cheese=['  kaestr1Cool    ',
 
 o="Did y'all know ";
 end=" smolHands whyyy??";
-if(i.length==0){o+='no one';}
-else{	o+=i;	end=' I bet ya didnt! '+chz[Math.floor(Math.random()*chz.length)];}
+if(query.length==0){o+='no one';}
+else{	o+=query;	end=' I bet ya didnt! '+chz[Math.floor(Math.random()*chz.length)];}
 o+=" is a hecking "; 
-if(/Kae/i.test(i)){	o+='cute lil flower maizBlush ??';}
+if(/Kae/i.test(query)){	o+='cute lil flower maizBlush ??';}
 else{	o+='cutie??';}
 o+=end;o;)
